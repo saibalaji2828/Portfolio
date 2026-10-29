@@ -83,7 +83,7 @@ function App() {
             <div className="social-links">
 
               <a
-                href="https://github.com/saibalaji2828"
+                href="https://github.com/saibalaji2828/Portfolio"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -828,7 +828,7 @@ function App() {
               <div className="project-buttons">
 
                 <a
-                  href="https://github.com/saibalaji2828"
+                  href="https://github.com/saibalaji2828/Portfolio"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="project-btn github-btn"
